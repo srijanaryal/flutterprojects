@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979654911477",
+    "project_id": "acer-ef927",
+    "storage_bucket": "acer-ef927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979654911477:android:225281fc782dd110fcacbc",
+        "android_client_info": {
+          "package_name": "com.example.taktak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979654911477-si32oi9tsgp53h0ke0v0iageqvs307pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDACdyWtsnHweOyfmkOrZZKSrPRhGpSk8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979654911477-si32oi9tsgp53h0ke0v0iageqvs307pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
